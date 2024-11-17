@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+tavily-python
+langchain-google-genai
+langchainhub
+pandas
+python-dotenv
+gspread
+google-api-python-client
+oauth2client
