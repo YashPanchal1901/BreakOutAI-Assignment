@@ -3,6 +3,8 @@
 ## Project Description
 This project is an AI-powered dashboard that allows users to upload CSV files or connect to a Google Sheet for data processing. The application performs automated web searches for entities specified in the dataset and extracts relevant information using an LLM (Google Gemini) integrated with LangChain's Tavily Search. The results are displayed in a structured format and can be downloaded as a CSV file.
 
+link for the video : https://www.loom.com/share/f4d4aef4473d449b92508dd00afc8e1e?sid=0b22f534-cd8d-460b-9077-53132d852785
+
 ## Setup Instructions
 Follow these steps to set up and run the project locally:
 
